@@ -1,12 +1,13 @@
 
 # React Native Credit Card Input
 Easy (and good looking) credit-card input for your React Native Project 💳 💳
+This is a fork of @sbycrosz repo [https://github.com/sbycrosz/react-native-credit-card-input] with added support for Verve card minor improvements
 
 <p align="center">
-<img src="https://github.com/sbycrosz/react-native-credit-card-input/blob/master/preview-ios.gif?raw=true" width=200/>
-<img src="https://github.com/sbycrosz/react-native-credit-card-input/blob/master/preview-ios-lite.gif?raw=true" width=200/>
-<img src="https://github.com/sbycrosz/react-native-credit-card-input/blob/master/preview-android.gif?raw=true" width=200/>
-<img src="https://github.com/sbycrosz/react-native-credit-card-input/blob/master/preview-android-lite.gif?raw=true" width=200/>
+<img src="https://github.com/dipo1/react-native-credit-card-input/blob/master/preview-ios.gif?raw=true" width=200/>
+<img src="https://github.com/dipo1/react-native-credit-card-input/blob/master/preview-ios-lite.gif?raw=true" width=200/>
+<img src="https://github.com/dipo1/react-native-credit-card-input/blob/master/preview-android.gif?raw=true" width=200/>
+<img src="https://github.com/dipo1/react-native-credit-card-input/blob/master/preview-android-lite.gif?raw=true" width=200/>
 </p>
 
 Code:
@@ -179,7 +180,7 @@ focus on to specified field
 
 # Example
 
-[Expo Snack](https://snack.expo.io/@sbycrosz/react-native-credit-card-example)
+[Expo Snack](https://snack.expo.io/@dipo1/react-native-credit-card-example)
 
 In the `example` directory, run:
 
